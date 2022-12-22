@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="tests" allow-return-values="true"
+       verbose="10">
+    <test name="Jupiter Toys Website Test Suite">
+        <packages>
+            <package name="jupitertoys.tests" />
+        </packages>
+    </test>
+</suite>
